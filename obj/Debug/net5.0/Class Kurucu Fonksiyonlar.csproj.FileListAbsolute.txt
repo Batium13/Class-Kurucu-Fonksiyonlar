@@ -1,0 +1,16 @@
+D:\BATU\VS Code Console Programming\Practises\Class Kurucu Fonksiyonlar\bin\Debug\net5.0\Class Kurucu Fonksiyonlar.exe
+D:\BATU\VS Code Console Programming\Practises\Class Kurucu Fonksiyonlar\bin\Debug\net5.0\Class Kurucu Fonksiyonlar.deps.json
+D:\BATU\VS Code Console Programming\Practises\Class Kurucu Fonksiyonlar\bin\Debug\net5.0\Class Kurucu Fonksiyonlar.runtimeconfig.json
+D:\BATU\VS Code Console Programming\Practises\Class Kurucu Fonksiyonlar\bin\Debug\net5.0\Class Kurucu Fonksiyonlar.runtimeconfig.dev.json
+D:\BATU\VS Code Console Programming\Practises\Class Kurucu Fonksiyonlar\bin\Debug\net5.0\Class Kurucu Fonksiyonlar.dll
+D:\BATU\VS Code Console Programming\Practises\Class Kurucu Fonksiyonlar\bin\Debug\net5.0\ref\Class Kurucu Fonksiyonlar.dll
+D:\BATU\VS Code Console Programming\Practises\Class Kurucu Fonksiyonlar\bin\Debug\net5.0\Class Kurucu Fonksiyonlar.pdb
+D:\BATU\VS Code Console Programming\Practises\Class Kurucu Fonksiyonlar\obj\Debug\net5.0\Class Kurucu Fonksiyonlar.csproj.AssemblyReference.cache
+D:\BATU\VS Code Console Programming\Practises\Class Kurucu Fonksiyonlar\obj\Debug\net5.0\Class Kurucu Fonksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\BATU\VS Code Console Programming\Practises\Class Kurucu Fonksiyonlar\obj\Debug\net5.0\Class Kurucu Fonksiyonlar.AssemblyInfoInputs.cache
+D:\BATU\VS Code Console Programming\Practises\Class Kurucu Fonksiyonlar\obj\Debug\net5.0\Class Kurucu Fonksiyonlar.AssemblyInfo.cs
+D:\BATU\VS Code Console Programming\Practises\Class Kurucu Fonksiyonlar\obj\Debug\net5.0\Class Kurucu Fonksiyonlar.csproj.CoreCompileInputs.cache
+D:\BATU\VS Code Console Programming\Practises\Class Kurucu Fonksiyonlar\obj\Debug\net5.0\Class Kurucu Fonksiyonlar.dll
+D:\BATU\VS Code Console Programming\Practises\Class Kurucu Fonksiyonlar\obj\Debug\net5.0\ref\Class Kurucu Fonksiyonlar.dll
+D:\BATU\VS Code Console Programming\Practises\Class Kurucu Fonksiyonlar\obj\Debug\net5.0\Class Kurucu Fonksiyonlar.pdb
+D:\BATU\VS Code Console Programming\Practises\Class Kurucu Fonksiyonlar\obj\Debug\net5.0\Class Kurucu Fonksiyonlar.genruntimeconfig.cache
